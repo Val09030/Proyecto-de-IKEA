@@ -1,0 +1,8 @@
+flask
+flask-cors
+openai
+python-dotenv
+pytest
+# Solo para regenerar el catálogo con preprocess_catalog.py (opcional):
+kagglehub
+pandas

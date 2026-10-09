@@ -1,0 +1,794 @@
+[
+  {
+    "id": "605.106.40",
+    "nombre": "JÄRVFJÄLLET Office chair with armrests",
+    "categoria": "Muebles",
+    "precio_mxn": 4882,
+    "descripcion": "10-year Warranty. Read about the terms in the warranty brochure.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/jaervfjaellet-office-chair-with-armrests-glose-black__1009906_pe827773_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/jaervfjaellet-office-chair-with-armrests-60510640/"
+  },
+  {
+    "id": "003.400.47",
+    "nombre": "EKET Suspension rail 13 3/4 \"",
+    "categoria": "Almacenamiento",
+    "precio_mxn": 88,
+    "descripcion": "The suspension rail works as a reinforcement and makes it both easier and safer to mount EKET to the wall.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/eket-suspension-rail__0473519_pe614593_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/eket-suspension-rail-00340047/"
+  },
+  {
+    "id": "404.884.52",
+    "nombre": "STORSLINGA LED chandelier, 8-armed - black/white",
+    "categoria": "Iluminación",
+    "precio_mxn": 1225,
+    "descripcion": "Spreads a soft, glare-free light that is pleasant for your eyes.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco",
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/storslinga-led-chandelier-8-armed-black-white__0982258_pe815591_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/storslinga-led-chandelier-8-armed-black-white-40488452/"
+  },
+  {
+    "id": "904.670.65",
+    "nombre": "DRÖNA Box - black 9 ¾x13 ¾x9 ¾ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 52,
+    "descripcion": "A good size for various media and clothing accessories.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/droena-box-black__0913728_pe783696_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/droena-box-black-90467065/"
+  },
+  {
+    "id": "904.670.65",
+    "nombre": "DRÖNA Box - black 9 ¾x13 ¾x9 ¾ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 52,
+    "descripcion": "A good size for various media and clothing accessories.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/droena-box-black__0913728_pe783696_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/droena-box-black-90467065/"
+  },
+  {
+    "id": "302.927.85",
+    "nombre": "LURÖY Slatted bed base Full/Double",
+    "categoria": "Camas y colchones",
+    "precio_mxn": 525,
+    "descripcion": "16 layer-glued slats adjust to your body weight and increase the suppleness of the mattress.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "madera"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/luroey-slatted-bed-base__0268303_pe406267_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/luroey-slatted-bed-base-30292785/"
+  },
+  {
+    "id": "804.910.75",
+    "nombre": "RINGBLOMMA Roman blind - white/green/stripe 48x63 \"",
+    "categoria": "Textiles",
+    "precio_mxn": 525,
+    "descripcion": "The blind lowers the general light level and provides privacy by preventing people outside from seeing directly into the room.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco",
+      "verde"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/ringblomma-roman-blind-white__0602863_pe680567_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/ringblomma-roman-blind-white-green-stripe-80491075/"
+  },
+  {
+    "id": "204.202.41",
+    "nombre": "TOFTLUND Rug - white 1 ' 10 \"x2 ' 9 \"",
+    "categoria": "Alfombras",
+    "precio_mxn": 175,
+    "descripcion": "The rug is super soft, warm and cozy. Ideal on the floor or draped across your favorite armchair.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/toftlund-rug-white__0617682_pe688130_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/toftlund-rug-white-20420241/"
+  },
+  {
+    "id": "202.813.82",
+    "nombre": "ENSEN Bath faucet with strainer - chrome plated",
+    "categoria": "Baño",
+    "precio_mxn": 875,
+    "descripcion": "10-year Limited Warranty. Read about the terms in the Limited Warranty brochure.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/ensen-bath-faucet-chrome-plated__0755162_pe748289_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/ensen-bath-faucet-with-strainer-chrome-plated-20281382/"
+  },
+  {
+    "id": "904.767.34",
+    "nombre": "RUNNEN Decking, outdoor - beige 9 sq feet",
+    "categoria": "Exterior",
+    "precio_mxn": 350,
+    "descripcion": "Floor decking makes it easy to refresh your terrace or balcony.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "beige"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/runnen-decking-outdoor-beige__0960341_pe806626_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/runnen-decking-outdoor-beige-90476734/"
+  },
+  {
+    "id": "904.842.77",
+    "nombre": "GULLIGAST Baby gym",
+    "categoria": "Bebé y niños",
+    "precio_mxn": 700,
+    "descripcion": "In this baby gym, your child can lie on a soft mat, look at their reflection and play with three animals and two colorful flowers. The soft figures ca",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/gulligast-baby-gym-multicolor__0923194_pe788312_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/gulligast-baby-gym-90484277/"
+  },
+  {
+    "id": "800.454.48",
+    "nombre": "KNYCK Napkin holder - black",
+    "categoria": "Cocina y mesa",
+    "precio_mxn": 87,
+    "descripcion": "Metal ball keeps napkins in place.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/knyck-napkin-holder-black__23187_pe088993_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/knyck-napkin-holder-black-80045448/"
+  },
+  {
+    "id": "194.146.32",
+    "nombre": "SEKTION / MAXIMERA Base cabinet w 2 doors/3 drawers - white Järsta/high gloss light turquoise 36x24x30 \"",
+    "categoria": "Cocina",
+    "precio_mxn": 9170,
+    "descripcion": "Cabinet code SE B2D3I",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/sektion-base-cabinet-white__0268620_pe406679_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/sektion-maximera-base-cabinet-w-2-doors-3-drawers-white-jaersta-high-gloss-light-turquoise-s19414632/"
+  },
+  {
+    "id": "505.046.92",
+    "nombre": "LADDA Rechargeable battery - HR06 AA 1.2V 2450mAh",
+    "categoria": "Electrónica",
+    "precio_mxn": 140,
+    "descripcion": "If you’re a frequent user of alkaline batteries, over time you can save money, reduce waste and lower your impact on the environment by switching to L",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/ladda-rechargeable-battery-hr06-aa-1-2v__0968547_pe810493_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/ladda-rechargeable-battery-hr06-aa-1-2v-50504692/"
+  },
+  {
+    "id": "104.866.52",
+    "nombre": "OLIVBLAD Plant stand - indoor/outdoor black 13 ¾ \"",
+    "categoria": "Jardín y plantas",
+    "precio_mxn": 175,
+    "descripcion": "The plant stand has shelves at different levels, so you can put your pots on display and make the room dynamic.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/olivblad-plant-stand-indoor-outdoor-black__1010781_pe828330_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/olivblad-plant-stand-indoor-outdoor-black-10486652/"
+  },
+  {
+    "id": "404.990.02",
+    "nombre": "SLIBB Clothes pin",
+    "categoria": "Lavado y limpieza",
+    "precio_mxn": 23,
+    "descripcion": "The included loop allows you to hang the clothes pegs on a towel rail, practical for example when travelling and staying in a hotel",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/slibb-flexible-laundry-basket-green__1232113_pe916410_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/slibb-clothes-pin-40499002/"
+  },
+  {
+    "id": "200.989.58",
+    "nombre": "PATRULL Safety plug - white",
+    "categoria": "Mejoras del hogar",
+    "precio_mxn": 52,
+    "descripcion": "The safety plugs reduce the risk of your child sticking their finger or an object into a wall outlet. You can use the plugs in grounded as well as ung",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/patrull-door-stop-white__0710894_pe727826_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/patrull-safety-plug-white-20098958/"
+  },
+  {
+    "id": "791.778.59",
+    "nombre": "LÅNGFJÄLL Office chair with armrests - Gunnared beige/black",
+    "categoria": "Muebles",
+    "precio_mxn": 3132,
+    "descripcion": "An ergonomic office chair with lightly curved lines, attention to the sewn details and an easy-to-use mechanism hidden under the seat to highlight the",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "negro",
+      "beige"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/langfjaell-conference-chair-with-armrests-gunnared-beige-black__0725421_pe734853_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/langfjaell-office-chair-with-armrests-gunnared-beige-black-s79177859/"
+  },
+  {
+    "id": "494.202.93",
+    "nombre": "PAX Corner wardrobe 82 7/8/83 7/8x92 7/8 \"",
+    "categoria": "Almacenamiento",
+    "precio_mxn": 22400,
+    "descripcion": "Add-on corner unit with 4 shelves",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/pax-wardrobe-combination-white__1382040_pe962204_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/pax-corner-wardrobe-s49420293/"
+  },
+  {
+    "id": "004.407.87",
+    "nombre": "UPPLYST LED wall lamp - flower lilac",
+    "categoria": "Iluminación",
+    "precio_mxn": 262,
+    "descripcion": "The included light source gives a soft cozy light which is perfect for relaxing.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/upplyst-led-wall-lamp-flower-lilac__0716262_pe730768_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/upplyst-led-wall-lamp-flower-lilac-00440787/"
+  },
+  {
+    "id": "904.670.65",
+    "nombre": "DRÖNA Box - black 9 ¾x13 ¾x9 ¾ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 52,
+    "descripcion": "A good size for various media and clothing accessories.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/droena-box-black__0913728_pe783696_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/droena-box-black-90467065/"
+  },
+  {
+    "id": "904.670.65",
+    "nombre": "DRÖNA Box - black 9 ¾x13 ¾x9 ¾ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 52,
+    "descripcion": "A good size for various media and clothing accessories.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/droena-box-black__0913728_pe783696_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/droena-box-black-90467065/"
+  },
+  {
+    "id": "401.433.04",
+    "nombre": "LEN Mattress protector - white 27 1/2x39 \"",
+    "categoria": "Camas y colchones",
+    "precio_mxn": 105,
+    "descripcion": "Waterproof backing protects the mattress.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/len-mattress-protector-white__0597521_pe677166_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/len-mattress-protector-white-40143304/"
+  },
+  {
+    "id": "403.804.75",
+    "nombre": "TRETUR Blackout roller blind - light gray 27x76 ¾ \"",
+    "categoria": "Textiles",
+    "precio_mxn": 752,
+    "descripcion": "Block-out blinds blocks light from shining through and completely darkens your room.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "negro",
+      "gris"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/tretur-black-out-roller-blind-light-gray__0541310_pe653523_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/tretur-blackout-roller-blind-light-gray-40380475/"
+  },
+  {
+    "id": "303.827.76",
+    "nombre": "LYNDERUP Door mat - indoor/outdoor multicolor 2 ' 0 \"x2 ' 11 \"",
+    "categoria": "Alfombras",
+    "precio_mxn": 262,
+    "descripcion": "The door mat is perfect for outdoor use since it is made to withstand rain, sun, snow and dirt.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/lynderup-door-mat-indoor-outdoor-multicolor__0721305_pe733154_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/lynderup-door-mat-indoor-outdoor-multicolor-30382776/"
+  },
+  {
+    "id": "103.132.27",
+    "nombre": "SALVIKEN Bath sheet - white 39x59 \"",
+    "categoria": "Baño",
+    "precio_mxn": 227,
+    "descripcion": "The towel has two surfaces – one side with soft terry and one with a nice waffle structure.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/salviken-bath-sheet-white__0605464_pe681751_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/salviken-bath-sheet-white-10313227/"
+  },
+  {
+    "id": "204.885.04",
+    "nombre": "HYLLIS Shelf unit - indoor/outdoor 15 3/4x10 5/8x72 \"",
+    "categoria": "Exterior",
+    "precio_mxn": 262,
+    "descripcion": "Can be used both indoors and outdoors, and is just as suitable on the balcony as in the kitchen, hallway or bathroom.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/hyllis-shelf-unit-indoor-outdoor__0639121_pe704408_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/hyllis-shelf-unit-indoor-outdoor-20488504/"
+  },
+  {
+    "id": "801.301.68",
+    "nombre": "DUKTIG 5-piece toy kitchen utensil set - multicolor",
+    "categoria": "Bebé y niños",
+    "precio_mxn": 79,
+    "descripcion": "Mini kitchen utensils for play, made of stainless steel and other durable materials.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/duktig-5-piece-toy-kitchen-utensil-set-multicolor__0711777_pe728426_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/duktig-5-piece-toy-kitchen-utensil-set-multicolor-80130168/"
+  },
+  {
+    "id": "502.583.23",
+    "nombre": "IVRIG Glass - clear glass 15 oz",
+    "categoria": "Cocina y mesa",
+    "precio_mxn": 26,
+    "descripcion": "The glass has a large round bowl which allows you to also use it as a stemless red wine glass, as the shape helps the aromas and flavors of the wine t",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/ivrig-glass-clear-glass__0713244_pe729354_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/ivrig-glass-clear-glass-50258323/"
+  },
+  {
+    "id": "194.712.41",
+    "nombre": "FÖRNUFTIG Air purifier/additional gas filter",
+    "categoria": "Electrónica",
+    "precio_mxn": 1277,
+    "descripcion": "Particle filter and gas filter included.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/foernuftig-air-purifier-additional-gas-filter-white__1052012_pe845877_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/foernuftig-air-purifier-additional-gas-filter-s19471241/"
+  },
+  {
+    "id": "504.866.50",
+    "nombre": "OLIVBLAD Plant stand - indoor/outdoor black 22 ¾ \"",
+    "categoria": "Jardín y plantas",
+    "precio_mxn": 350,
+    "descripcion": "The plant stand has shelves at different levels, so you can put your pots on display and make the room dynamic.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/olivblad-plant-stand-indoor-outdoor-black__1010787_pe828336_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/olivblad-plant-stand-indoor-outdoor-black-50486650/"
+  },
+  {
+    "id": "301.411.26",
+    "nombre": "BÄSTIS Lint roller refill",
+    "categoria": "Lavado y limpieza",
+    "precio_mxn": 49,
+    "descripcion": "Refill for BÄSTIS lint roller.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/baestis-lint-roller-with-4-refills__0711850_pe728519_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/baestis-lint-roller-refill-30141126/"
+  },
+  {
+    "id": "194.178.62",
+    "nombre": "BESTÅ Wall-mounted cabinet combination - black-brown Hedeviken/dark brown stained oak veneer 70 7/8x16 1/2x25 1/4 \"",
+    "categoria": "Almacenamiento",
+    "precio_mxn": 5775,
+    "descripcion": "Create unique and varied patterns on your BESTÅ with the help of the visible grains on HEDEVIKEN doors.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "negro",
+      "madera"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/besta-wall-mounted-cabinet-combination-black-brown-hedeviken-dark-brown-stained-oak-veneer__0994653_pe821277_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/besta-wall-mounted-cabinet-combination-black-brown-hedeviken-dark-brown-stained-oak-veneer-s19417862/"
+  },
+  {
+    "id": "002.418.15",
+    "nombre": "DRUVFLÄDER Hanging planter - water hyacinth/gray 5 ½ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 140,
+    "descripcion": "Handmade by a skilled craftsperson.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "gris"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/druvflaeder-hanging-planter-water-hyacinth-gray__0190564_pe344007_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/druvflaeder-hanging-planter-water-hyacinth-gray-00241815/"
+  },
+  {
+    "id": "002.418.15",
+    "nombre": "DRUVFLÄDER Hanging planter - water hyacinth/gray 5 ½ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 140,
+    "descripcion": "Handmade by a skilled craftsperson.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "gris"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/druvflaeder-hanging-planter-water-hyacinth-gray__0190564_pe344007_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/druvflaeder-hanging-planter-water-hyacinth-gray-00241815/"
+  },
+  {
+    "id": "804.585.42",
+    "nombre": "FJÄLLBRÄCKA Comforter, warm Full/Queen",
+    "categoria": "Camas y colchones",
+    "precio_mxn": 1732,
+    "descripcion": "A warm comforter in soft cotton, with down/feather filling.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/fjaellbraecka-duvet-insert-warm__0788249_pe763541_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/fjaellbraecka-comforter-warm-80458542/"
+  },
+  {
+    "id": "105.045.90",
+    "nombre": "TIBAST Room darkening curtains, 1 pair - dark green 57x98 \"",
+    "categoria": "Textiles",
+    "precio_mxn": 700,
+    "descripcion": "The thick curtains darken the room and provide privacy by preventing people outside from seeing into the room.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "verde"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/tibast-room-darkening-curtains-1-pair-dark-green-with-heading-tape__0973015_pe811868_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/tibast-room-darkening-curtains-1-pair-dark-green-10504590/"
+  },
+  {
+    "id": "504.787.25",
+    "nombre": "LINDKNUD Rug, high pile - dark gray 2 ' 7 \"x4 ' 11 \"",
+    "categoria": "Alfombras",
+    "precio_mxn": 525,
+    "descripcion": "The dense, thick pile dampens sound and provides a soft surface to walk on.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "gris"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/lindknud-rug-high-pile-dark-gray__0806500_pe769965_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/lindknud-rug-high-pile-dark-gray-50478725/"
+  },
+  {
+    "id": "205.021.28",
+    "nombre": "VALLASÅN Bath sheet - light gray/brown 39x59 \"",
+    "categoria": "Baño",
+    "precio_mxn": 227,
+    "descripcion": "Style and color coordinate nicely with VINARN towels.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "gris"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/vallasan-bath-sheet-light-gray-brown__0980873_pe815206_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/vallasan-bath-sheet-light-gray-brown-20502128/"
+  },
+  {
+    "id": "403.420.54",
+    "nombre": "CIRKUSTÄLT Children's tent",
+    "categoria": "Bebé y niños",
+    "precio_mxn": 350,
+    "descripcion": "Creates a sheltered spot, a room in the room, to play or just cuddle up in.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/cirkustaelt-childrens-tent-red-blue-white__0710148_pe727349_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/cirkustaelt-childrens-tent-40342054/"
+  },
+  {
+    "id": "002.588.82",
+    "nombre": "KLIPSK Bed tray - white",
+    "categoria": "Cocina y mesa",
+    "precio_mxn": 227,
+    "descripcion": "Foldable legs make the bed tray easy to store without taking up extra space.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/klipsk-bed-tray-white__0373657_pe553485_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/klipsk-bed-tray-white-00258882/"
+  },
+  {
+    "id": "204.142.64",
+    "nombre": "ENEBY Battery pack",
+    "categoria": "Electrónica",
+    "precio_mxn": 350,
+    "descripcion": "Is your nearest wall outlet far away? No problem, the battery will keep your ENEBY speaker 8x8\" powered up to 10 hours.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/eneby-battery-pack__0564110_pe664068_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/eneby-battery-pack-20414264/"
+  },
+  {
+    "id": "602.899.46",
+    "nombre": "IKEA PS 2002 Watering can - white 41 oz",
+    "categoria": "Jardín y plantas",
+    "precio_mxn": 35,
+    "descripcion": "The watering can is both functional and decorative.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/ikea-ps-2002-watering-can-white__0635849_pe697470_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/ikea-ps-2002-watering-can-white-60289946/"
+  },
+  {
+    "id": "904.995.18",
+    "nombre": "PEPPRIG Scrubbing pad",
+    "categoria": "Lavado y limpieza",
+    "precio_mxn": 14,
+    "descripcion": "The textile cover prevents the sponge from falling apart into pieces.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/pepprig-scrubbing-pad-green-blue-yellow__1232066_pe916380_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/pepprig-scrubbing-pad-90499518/"
+  },
+  {
+    "id": "494.202.74",
+    "nombre": "BESTÅ TV bench with drawers - white/Bergsviken/Ösarp black 47 1/4x16 1/2x18 7/8 \"",
+    "categoria": "Almacenamiento",
+    "precio_mxn": 4288,
+    "descripcion": "It’s easy to keep the cords from your TV and other devices out of sight but close at hand, as there are several cord outlets at the back of the TV ben",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco",
+      "negro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/besta-tv-bench-with-doors-black-brown-hedeviken-dark-brown-oak-veneer__0993132_pe820437_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/besta-tv-bench-with-drawers-white-bergsviken-oesarp-black-s49420274/"
+  },
+  {
+    "id": "002.418.15",
+    "nombre": "DRUVFLÄDER Hanging planter - water hyacinth/gray 5 ½ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 140,
+    "descripcion": "Handmade by a skilled craftsperson.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "gris"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/druvflaeder-hanging-planter-water-hyacinth-gray__0190564_pe344007_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/druvflaeder-hanging-planter-water-hyacinth-gray-00241815/"
+  },
+  {
+    "id": "002.418.15",
+    "nombre": "DRUVFLÄDER Hanging planter - water hyacinth/gray 5 ½ \"",
+    "categoria": "Decoración",
+    "precio_mxn": 140,
+    "descripcion": "Handmade by a skilled craftsperson.",
+    "estilo": [
+      "escandinavo"
+    ],
+    "colores": [
+      "gris"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/druvflaeder-hanging-planter-water-hyacinth-gray__0190564_pe344007_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/druvflaeder-hanging-planter-water-hyacinth-gray-00241815/"
+  },
+  {
+    "id": "604.655.29",
+    "nombre": "SMÅGÖRA Shelf unit - white 11 3/8x34 5/8 \"",
+    "categoria": "Bebé y niños",
+    "precio_mxn": 350,
+    "descripcion": "Can stand on the floor or be hung on the wall, vertically or horizontally.",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/smagoera-shelf-unit-white__0772937_pe756154_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/smagoera-shelf-unit-white-60465529/"
+  },
+  {
+    "id": "000.864.28",
+    "nombre": "KOPPLA 3 outlet power strip - grounded/white 19 ¾ \"",
+    "categoria": "Electrónica",
+    "precio_mxn": 87,
+    "descripcion": "Designer",
+    "estilo": [
+      "escandinavo",
+      "minimalista"
+    ],
+    "colores": [
+      "blanco"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/koppla-3-outlet-power-strip-grounded-white__0605937_pe681908_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/koppla-3-outlet-power-strip-grounded-white-00086428/"
+  },
+  {
+    "id": "202.428.90",
+    "nombre": "JÄLL Tabletop ironing board 28 ¾x12 ½ \"",
+    "categoria": "Lavado y limpieza",
+    "precio_mxn": 105,
+    "descripcion": "Space saving as you can put it on the table and when you are finished, you can just hang it up with the hook underneath on a door or in the wardrobe.",
+    "estilo": [
+      "industrial",
+      "moderno"
+    ],
+    "colores": [
+      "neutro"
+    ],
+    "image_url": "https://www.ikea.com/us/en/images/products/jaell-tabletop-ironing-board__0710876_pe727816_s5.jpg",
+    "product_url": "https://www.ikea.com/us/en/p/jaell-tabletop-ironing-board-20242890/"
+  }
+]
